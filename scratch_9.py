@@ -10,4 +10,3 @@ def f(s = "12345678999", n = 3):
         string = string+"".join(str(newLs[k]))
     print(string)
 f()
-print("noice")
