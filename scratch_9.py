@@ -8,5 +8,5 @@ def f(s = "12345678999", n = 3):
             ls.remove(max(ls))
     for k in range(n):
         string = string+"".join(str(newLs[k]))
-    print(string)
-f()
+    print(string) 
+f() #nochanges
